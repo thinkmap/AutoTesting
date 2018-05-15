@@ -12,7 +12,7 @@
 
 ### 使用指南：
 <pre><code>
-git clone https://github.com/qiangzhouf/AutotestPlatform.git
+git clone https://github.com/thinkmap/AutoTesting.git
 
 </pre></code>
 <pre><code>
@@ -38,32 +38,32 @@ python3 server.py
 cd AutotestPlatform/web
 uwsgi -i uwsgi.ini
 
-（启动成功后，即可访问自动化测试平台(admin/intedio),账户密码在wep.py里配置，暂无用户管理）
+（启动成功后，即可访问自动化测试平台(admin/baijuOOL123),账户密码在wep.py里配置，暂无用户管理）
 </code></pre>
 
 ### 示例：
 #### 接口自动化测试模块
 1、单个接口录入
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/1.png)
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/6.png)
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/7.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/1.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/6.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/7.png)
 2、多个接口组织场景
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/2.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/2.png)
 3、新建测试套，并添加场景
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/3.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/3.png)
 4、建立任务并执行
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/4.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/4.png)
 5、查看结果
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/5.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/5.png)
 #### web界面自动化测试模块
 1、添加页面抽象
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/11.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/11.png)
 2、编写用例模板
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/12.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/12.png)
 3、组织用例集
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/13.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/13.png)
 4、建立任务并执行
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/14.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/14.png)
 5、查看结果
-![](https://github.com/qiangzhouf/AutotestPlatform/raw/master/doc/15.png)
+![](https://github.com/thinkmap/AutoTesting/raw/master/doc/15.png)
 
